@@ -1,6 +1,7 @@
 # lione add
 models/
 keys/
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
